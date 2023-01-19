@@ -1,0 +1,51 @@
+.img {
+
+     background-color: white;
+    margin-top: 25%;
+    margin-left: 10%; 
+    
+}
+.maindiv {
+
+    display: flex;
+    flex-direction: row;
+    padding: auto;
+    
+
+}
+
+.fromdiv {
+
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+
+    /* margin-top: 70%;
+    margin-left: 70%; */
+
+    margin-top: 20%;
+    margin-left: 28%;
+    margin-right: 28%;
+    /* padding: auto; */
+}
+.div2{
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  
+
+
+}
+.imgd {
+
+/* border: 1px solid blue; */
+height: 50%;
+width: 50%;
+
+
+}
+.but1{
+    
+    margin-top: 5px;
+}
