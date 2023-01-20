@@ -37,7 +37,7 @@ export default function Home() {
           <MenuItem value={20}>UNIT</MenuItem>
           <MenuItem value={30}>KG</MenuItem>
         </Select>
-        <Button className={styles.but1} variant="contained"><Link to="/dashboard">HOME</Link></Button>
+        <Button className={styles.but1} variant="contained"><Link to="/Appointments">HOME</Link></Button>
       </Stack>
 
       {/* <TextField id="filled-basic" label="Filled" variant="filled" /> */}
